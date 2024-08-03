@@ -1,4 +1,5 @@
 Prediction Task Project 
+
 These projects involves building predictive models to forecast a target variable based on input features to build and evaluate a machine learning model. The process includes:
 
 Step 1: Load the Data
