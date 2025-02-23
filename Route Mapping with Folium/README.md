@@ -1,2 +1,2 @@
 # Connecting Major Indian Cities
-![](image/Connectingmajorinidancities.png)
+![](image/ConnectingMajorInidanCities.png)
